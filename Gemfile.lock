@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     clearance-i18n (0.0.1)
-      clearance (~> 1.15.0)
+      clearance (~> 2.5.0)
 
 GEM
   remote: https://rubygems.org/
